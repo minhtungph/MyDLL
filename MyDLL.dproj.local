@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/10/02 15:38:24.844,=D:\Dropbox\Delphi\Project\ThiNghiem\Project1.ridl</Transaction>
+    <Transaction>2021/10/02 15:38:24.849,=D:\Dropbox\Delphi\Project\ThiNghiem\Project1_TLB.pas</Transaction>
+    <Transaction>2021/10/02 15:42:06.578,D:\Dropbox\Delphi\Project\ThiNghiem\MyDLL_TLB.pas=D:\Dropbox\Delphi\Project\ThiNghiem\Project1_TLB.pas</Transaction>
+    <Transaction>2021/10/02 15:43:04.467,D:\Dropbox\Delphi\Project\ThiNghiem\MyDLL.dproj=D:\Dropbox\Delphi\Project\ThiNghiem\Project1.dproj</Transaction>
+    <Transaction>2021/10/02 15:43:24.451,D:\Dropbox\Delphi\Project\MyDLL\MyDLL.ridl=D:\Dropbox\Delphi\Project\ThiNghiem\Project1.ridl</Transaction>
+    <Transaction>2021/10/02 15:43:24.512,D:\Dropbox\Delphi\Project\MyDLL\MyDLL_TLB.pas=D:\Dropbox\Delphi\Project\ThiNghiem\MyDLL_TLB.pas</Transaction>
+    <Transaction>2021/10/02 15:43:29.462,D:\Dropbox\Delphi\Project\MyDLL\MyDLL.dproj=D:\Dropbox\Delphi\Project\ThiNghiem\MyDLL.dproj</Transaction>
+    <Transaction>2021/10/02 16:07:39.076,=D:\Dropbox\Delphi\Project\MyDLL\Unit1.pas</Transaction>
+    <Transaction>2021/10/02 16:08:38.281,=D:\Dropbox\Delphi\Project\MyDLL\Unit2.pas</Transaction>
+    <Transaction>2021/10/02 16:12:35.243,D:\Dropbox\Delphi\Project\MyDLL\KhoiTao.pas=D:\Dropbox\Delphi\Project\MyDLL\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

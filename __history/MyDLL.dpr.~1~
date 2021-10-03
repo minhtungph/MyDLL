@@ -1,0 +1,17 @@
+library MyDLL;
+
+uses
+  ComServ,
+  MyDLL_TLB in 'MyDLL_TLB.pas';
+
+exports
+  DllGetClassObject,
+  DllCanUnloadNow,
+  DllRegisterServer,
+  DllUnregisterServer,
+  DllInstall;
+
+{$R *.RES}
+
+begin
+end.
